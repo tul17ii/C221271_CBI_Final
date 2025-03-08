@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Galactic Adventure Journal</string>
+    <string name="welcome_to_galactic_adventure_journal">Welcome to Galactic Adventure Journal</string>
+    <string name="go_to_journal">Go to Journal</string>
+    <string name="explore_planets">Explore Planets</string>
+    <string name="astronomy_events_calendar">Astronomy Events Calendar</string>
+    <string name="astronomy_events">Astronomy Events</string>
+    <string name="login">Login</string>
+        <string name="api_key">AIzaSyCG83rmoUN1UCJZXIA_4zt_8S8TV7-cVlI</string>
+
+</resources>
